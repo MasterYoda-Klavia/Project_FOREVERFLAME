@@ -1,0 +1,36 @@
+body {
+
+    background:#050505;
+    color:#00ff99;
+    font-family:Courier New, monospace;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    height:100vh;
+
+}
+
+
+.container {
+
+    text-align:center;
+
+}
+
+
+h1 {
+
+    font-size:40px;
+
+}
+
+
+#status {
+
+    margin-top:40px;
+    font-size:24px;
+    color:white;
+
+}
