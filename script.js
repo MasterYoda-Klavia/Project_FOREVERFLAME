@@ -10,7 +10,7 @@ const status = document.getElementById("status");
 
 
 
-if(token === "HEARTLOCK_SUCCESS") {
+if(token === "712453ce1475d5415f7e3f2b2069ab829829bc11fd72c084c33b3c3b9062f7f8") {
 
 
     status.innerHTML =
